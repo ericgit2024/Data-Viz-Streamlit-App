@@ -25,3 +25,11 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/ericgit2024/Data-Viz-Streamlit-App.git
    cd Data-Viz-Streamlit-App
+
+2. **Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the application**:
+   ```bash
+   streamlit run app.py
