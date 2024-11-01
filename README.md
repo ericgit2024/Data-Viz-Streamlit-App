@@ -33,3 +33,10 @@ To run this application locally, follow these steps:
 3. **Run the application**:
    ```bash
    streamlit run app.py
+
+## Live Demo
+
+You can access the deployed version of this app [here](https://data-viz-app-app-j4pxhyovfxruzvy5ymybce.streamlit.app/)
+
+Feel free to explore the app and upload your datasets for visualization!
+
